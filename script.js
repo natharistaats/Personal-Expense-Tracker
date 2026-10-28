@@ -36,6 +36,7 @@ function formatMoney(amount) {
 }
 
 // Calculate and display totals
+
 function updateSummary() {
     let totalIncome = 0;
     let totalExpenses = 0;
